@@ -96,7 +96,7 @@ read_ghg_data <- function(fn) {
     readr::read_table(I(dat_raw), na = "nan", guess_max = 1e4)
   })
   
-  # If the try() above succeeded, we haev a data frame and can process it 
+  # If the try() above succeeded, we have a data frame and can process it 
   if(is.data.frame(dat)) {
     message("\tRead in ", nrow(dat), " rows of data, ", 
             min(dat$DATE), " to ", max(dat$DATE))
@@ -120,6 +120,11 @@ read_ghg_data <- function(fn) {
 
 dat <- lapply(data_files, read_ghg_data)
 dat <- do.call("rbind", dat)
+
+write_csv(data_problems, "dataframe_issues.csv")
+?write_csv
+data_problems<-problems(dat)
+
 ```
 
 Errors: `r errors`

@@ -1,0 +1,1753 @@
+row,col,expected,actual,file
+10135,DATE,date like ,2,literal data
+10135,TIME,time like ,in,literal data
+10135,H2O,a double,"wetl""",literal data
+10135,CO2,no trailing characters,2023-07-19,literal data
+10135,CH4,no trailing characters,15:14:29,literal data
+10135,NA,22 columns,25 columns,literal data
+10136,DATE,date like ,2,literal data
+10136,TIME,time like ,in,literal data
+10136,H2O,a double,"wetl""",literal data
+10136,CO2,no trailing characters,2023-07-19,literal data
+10136,CH4,no trailing characters,15:14:30,literal data
+10136,NA,22 columns,25 columns,literal data
+10137,DATE,date like ,2,literal data
+10137,TIME,time like ,in,literal data
+10137,H2O,a double,"wetl""",literal data
+10137,CO2,no trailing characters,2023-07-19,literal data
+10137,CH4,no trailing characters,15:14:31,literal data
+10137,NA,22 columns,25 columns,literal data
+10138,DATE,date like ,2,literal data
+10138,TIME,time like ,in,literal data
+10138,H2O,a double,"wetl""",literal data
+10138,CO2,no trailing characters,2023-07-19,literal data
+10138,CH4,no trailing characters,15:14:32,literal data
+10138,NA,22 columns,25 columns,literal data
+10139,DATE,date like ,2,literal data
+10139,TIME,time like ,in,literal data
+10139,H2O,a double,"wetl""",literal data
+10139,CO2,no trailing characters,2023-07-19,literal data
+10139,CH4,no trailing characters,15:14:33,literal data
+10139,NA,22 columns,25 columns,literal data
+10140,DATE,date like ,2,literal data
+10140,TIME,time like ,in,literal data
+10140,H2O,a double,"wetl""",literal data
+10140,CO2,no trailing characters,2023-07-19,literal data
+10140,CH4,no trailing characters,15:14:34,literal data
+10140,NA,22 columns,25 columns,literal data
+10141,DATE,date like ,2,literal data
+10141,TIME,time like ,in,literal data
+10141,H2O,a double,"wetl""",literal data
+10141,CO2,no trailing characters,2023-07-19,literal data
+10141,CH4,no trailing characters,15:14:35,literal data
+10141,NA,22 columns,25 columns,literal data
+10142,DATE,date like ,2,literal data
+10142,TIME,time like ,in,literal data
+10142,H2O,a double,"wetl""",literal data
+10142,CO2,no trailing characters,2023-07-19,literal data
+10142,CH4,no trailing characters,15:14:36,literal data
+10142,NA,22 columns,25 columns,literal data
+10143,DATE,date like ,2,literal data
+10143,TIME,time like ,in,literal data
+10143,H2O,a double,"wetl""",literal data
+10143,CO2,no trailing characters,2023-07-19,literal data
+10143,CH4,no trailing characters,15:14:37,literal data
+10143,NA,22 columns,25 columns,literal data
+10144,DATE,date like ,2,literal data
+10144,TIME,time like ,in,literal data
+10144,H2O,a double,"wetl""",literal data
+10144,CO2,no trailing characters,2023-07-19,literal data
+10144,CH4,no trailing characters,15:14:38,literal data
+10144,NA,22 columns,25 columns,literal data
+10145,DATE,date like ,2,literal data
+10145,TIME,time like ,in,literal data
+10145,H2O,a double,"wetl""",literal data
+10145,CO2,no trailing characters,2023-07-19,literal data
+10145,CH4,no trailing characters,15:14:39,literal data
+10145,NA,22 columns,25 columns,literal data
+10146,DATE,date like ,2,literal data
+10146,TIME,time like ,in,literal data
+10146,H2O,a double,"wetl""",literal data
+10146,CO2,no trailing characters,2023-07-19,literal data
+10146,CH4,no trailing characters,15:14:40,literal data
+10146,NA,22 columns,25 columns,literal data
+10147,DATE,date like ,2,literal data
+10147,TIME,time like ,in,literal data
+10147,H2O,a double,"wetl""",literal data
+10147,CO2,no trailing characters,2023-07-19,literal data
+10147,CH4,no trailing characters,15:14:41,literal data
+10147,NA,22 columns,25 columns,literal data
+10148,DATE,date like ,2,literal data
+10148,TIME,time like ,in,literal data
+10148,H2O,a double,"wetl""",literal data
+10148,CO2,no trailing characters,2023-07-19,literal data
+10148,CH4,no trailing characters,15:14:42,literal data
+10148,NA,22 columns,25 columns,literal data
+10149,DATE,date like ,2,literal data
+10149,TIME,time like ,in,literal data
+10149,H2O,a double,"wetl""",literal data
+10149,CO2,no trailing characters,2023-07-19,literal data
+10149,CH4,no trailing characters,15:14:43,literal data
+10149,NA,22 columns,25 columns,literal data
+10150,DATE,date like ,2,literal data
+10150,TIME,time like ,in,literal data
+10150,H2O,a double,"wetl""",literal data
+10150,CO2,no trailing characters,2023-07-19,literal data
+10150,CH4,no trailing characters,15:14:44,literal data
+10150,NA,22 columns,25 columns,literal data
+10151,DATE,date like ,2,literal data
+10151,TIME,time like ,in,literal data
+10151,H2O,a double,"wetl""",literal data
+10151,CO2,no trailing characters,2023-07-19,literal data
+10151,CH4,no trailing characters,15:14:45,literal data
+10151,NA,22 columns,25 columns,literal data
+10152,DATE,date like ,2,literal data
+10152,TIME,time like ,in,literal data
+10152,H2O,a double,"wetl""",literal data
+10152,CO2,no trailing characters,2023-07-19,literal data
+10152,CH4,no trailing characters,15:14:46,literal data
+10152,NA,22 columns,25 columns,literal data
+10153,DATE,date like ,2,literal data
+10153,TIME,time like ,in,literal data
+10153,H2O,a double,"wetl""",literal data
+10153,CO2,no trailing characters,2023-07-19,literal data
+10153,CH4,no trailing characters,15:14:47,literal data
+10153,NA,22 columns,25 columns,literal data
+10154,DATE,date like ,2,literal data
+10154,TIME,time like ,in,literal data
+10154,H2O,a double,"wetl""",literal data
+10154,CO2,no trailing characters,2023-07-19,literal data
+10154,CH4,no trailing characters,15:14:48,literal data
+10154,NA,22 columns,25 columns,literal data
+10155,DATE,date like ,2,literal data
+10155,TIME,time like ,in,literal data
+10155,H2O,a double,"wetl""",literal data
+10155,CO2,no trailing characters,2023-07-19,literal data
+10155,CH4,no trailing characters,15:14:49,literal data
+10155,NA,22 columns,25 columns,literal data
+10156,DATE,date like ,2,literal data
+10156,TIME,time like ,in,literal data
+10156,H2O,a double,"wetl""",literal data
+10156,CO2,no trailing characters,2023-07-19,literal data
+10156,CH4,no trailing characters,15:14:50,literal data
+10156,NA,22 columns,25 columns,literal data
+10157,DATE,date like ,2,literal data
+10157,TIME,time like ,in,literal data
+10157,H2O,a double,"wetl""",literal data
+10157,CO2,no trailing characters,2023-07-19,literal data
+10157,CH4,no trailing characters,15:14:51,literal data
+10157,NA,22 columns,25 columns,literal data
+10158,DATE,date like ,2,literal data
+10158,TIME,time like ,in,literal data
+10158,H2O,a double,"wetl""",literal data
+10158,CO2,no trailing characters,2023-07-19,literal data
+10158,CH4,no trailing characters,15:14:52,literal data
+10158,NA,22 columns,25 columns,literal data
+10159,DATE,date like ,2,literal data
+10159,TIME,time like ,in,literal data
+10159,H2O,a double,"wetl""",literal data
+10159,CO2,no trailing characters,2023-07-19,literal data
+10159,CH4,no trailing characters,15:14:53,literal data
+10159,NA,22 columns,25 columns,literal data
+10160,DATE,date like ,2,literal data
+10160,TIME,time like ,in,literal data
+10160,H2O,a double,"wetl""",literal data
+10160,CO2,no trailing characters,2023-07-19,literal data
+10160,CH4,no trailing characters,15:14:54,literal data
+10160,NA,22 columns,25 columns,literal data
+10161,DATE,date like ,2,literal data
+10161,TIME,time like ,in,literal data
+10161,H2O,a double,"wetl""",literal data
+10161,CO2,no trailing characters,2023-07-19,literal data
+10161,CH4,no trailing characters,15:14:55,literal data
+10161,NA,22 columns,25 columns,literal data
+10162,DATE,date like ,2,literal data
+10162,TIME,time like ,in,literal data
+10162,H2O,a double,"wetl""",literal data
+10162,CO2,no trailing characters,2023-07-19,literal data
+10162,CH4,no trailing characters,15:14:56,literal data
+10162,NA,22 columns,25 columns,literal data
+10163,DATE,date like ,2,literal data
+10163,TIME,time like ,in,literal data
+10163,H2O,a double,"wetl""",literal data
+10163,CO2,no trailing characters,2023-07-19,literal data
+10163,CH4,no trailing characters,15:14:57,literal data
+10163,NA,22 columns,25 columns,literal data
+10164,DATE,date like ,2,literal data
+10164,TIME,time like ,in,literal data
+10164,H2O,a double,"wetl""",literal data
+10164,CO2,no trailing characters,2023-07-19,literal data
+10164,CH4,no trailing characters,15:14:58,literal data
+10164,NA,22 columns,25 columns,literal data
+10165,DATE,date like ,2,literal data
+10165,TIME,time like ,in,literal data
+10165,H2O,a double,"wetl""",literal data
+10165,CO2,no trailing characters,2023-07-19,literal data
+10165,CH4,no trailing characters,15:14:59,literal data
+10165,NA,22 columns,25 columns,literal data
+10166,DATE,date like ,2,literal data
+10166,TIME,time like ,in,literal data
+10166,H2O,a double,"wetl""",literal data
+10166,CO2,no trailing characters,2023-07-19,literal data
+10166,CH4,no trailing characters,15:15:00,literal data
+10166,NA,22 columns,25 columns,literal data
+10167,DATE,date like ,2,literal data
+10167,TIME,time like ,in,literal data
+10167,H2O,a double,"wetl""",literal data
+10167,CO2,no trailing characters,2023-07-19,literal data
+10167,CH4,no trailing characters,15:15:01,literal data
+10167,NA,22 columns,25 columns,literal data
+10168,DATE,date like ,2,literal data
+10168,TIME,time like ,in,literal data
+10168,H2O,a double,"wetl""",literal data
+10168,CO2,no trailing characters,2023-07-19,literal data
+10168,CH4,no trailing characters,15:15:02,literal data
+10168,NA,22 columns,25 columns,literal data
+10169,DATE,date like ,2,literal data
+10169,TIME,time like ,in,literal data
+10169,H2O,a double,"wetl""",literal data
+10169,CO2,no trailing characters,2023-07-19,literal data
+10169,CH4,no trailing characters,15:15:03,literal data
+10169,NA,22 columns,25 columns,literal data
+10170,DATE,date like ,2,literal data
+10170,TIME,time like ,in,literal data
+10170,H2O,a double,"wetl""",literal data
+10170,CO2,no trailing characters,2023-07-19,literal data
+10170,CH4,no trailing characters,15:15:04,literal data
+10170,NA,22 columns,25 columns,literal data
+10171,DATE,date like ,2,literal data
+10171,TIME,time like ,in,literal data
+10171,H2O,a double,"wetl""",literal data
+10171,CO2,no trailing characters,2023-07-19,literal data
+10171,CH4,no trailing characters,15:15:05,literal data
+10171,NA,22 columns,25 columns,literal data
+10172,DATE,date like ,2,literal data
+10172,TIME,time like ,in,literal data
+10172,H2O,a double,"wetl""",literal data
+10172,CO2,no trailing characters,2023-07-19,literal data
+10172,CH4,no trailing characters,15:15:06,literal data
+10172,NA,22 columns,25 columns,literal data
+10173,DATE,date like ,2,literal data
+10173,TIME,time like ,in,literal data
+10173,H2O,a double,"wetl""",literal data
+10173,CO2,no trailing characters,2023-07-19,literal data
+10173,CH4,no trailing characters,15:15:07,literal data
+10173,NA,22 columns,25 columns,literal data
+10174,DATE,date like ,2,literal data
+10174,TIME,time like ,in,literal data
+10174,H2O,a double,"wetl""",literal data
+10174,CO2,no trailing characters,2023-07-19,literal data
+10174,CH4,no trailing characters,15:15:08,literal data
+10174,NA,22 columns,25 columns,literal data
+10175,DATE,date like ,2,literal data
+10175,TIME,time like ,in,literal data
+10175,H2O,a double,"wetl""",literal data
+10175,CO2,no trailing characters,2023-07-19,literal data
+10175,CH4,no trailing characters,15:15:09,literal data
+10175,NA,22 columns,25 columns,literal data
+10176,DATE,date like ,2,literal data
+10176,TIME,time like ,in,literal data
+10176,H2O,a double,"wetl""",literal data
+10176,CO2,no trailing characters,2023-07-19,literal data
+10176,CH4,no trailing characters,15:15:10,literal data
+10176,NA,22 columns,25 columns,literal data
+10177,DATE,date like ,2,literal data
+10177,TIME,time like ,in,literal data
+10177,H2O,a double,"wetl""",literal data
+10177,CO2,no trailing characters,2023-07-19,literal data
+10177,CH4,no trailing characters,15:15:11,literal data
+10177,NA,22 columns,25 columns,literal data
+10178,DATE,date like ,2,literal data
+10178,TIME,time like ,in,literal data
+10178,H2O,a double,"wetl""",literal data
+10178,CO2,no trailing characters,2023-07-19,literal data
+10178,CH4,no trailing characters,15:15:12,literal data
+10178,NA,22 columns,25 columns,literal data
+10179,DATE,date like ,2,literal data
+10179,TIME,time like ,in,literal data
+10179,H2O,a double,"wetl""",literal data
+10179,CO2,no trailing characters,2023-07-19,literal data
+10179,CH4,no trailing characters,15:15:13,literal data
+10179,NA,22 columns,25 columns,literal data
+10180,DATE,date like ,2,literal data
+10180,TIME,time like ,in,literal data
+10180,H2O,a double,"wetl""",literal data
+10180,CO2,no trailing characters,2023-07-19,literal data
+10180,CH4,no trailing characters,15:15:14,literal data
+10180,NA,22 columns,25 columns,literal data
+10181,DATE,date like ,2,literal data
+10181,TIME,time like ,in,literal data
+10181,H2O,a double,"wetl""",literal data
+10181,CO2,no trailing characters,2023-07-19,literal data
+10181,CH4,no trailing characters,15:15:15,literal data
+10181,NA,22 columns,25 columns,literal data
+10182,DATE,date like ,2,literal data
+10182,TIME,time like ,in,literal data
+10182,H2O,a double,"wetl""",literal data
+10182,CO2,no trailing characters,2023-07-19,literal data
+10182,CH4,no trailing characters,15:15:16,literal data
+10182,NA,22 columns,25 columns,literal data
+10183,DATE,date like ,2,literal data
+10183,TIME,time like ,in,literal data
+10183,H2O,a double,"wetl""",literal data
+10183,CO2,no trailing characters,2023-07-19,literal data
+10183,CH4,no trailing characters,15:15:17,literal data
+10183,NA,22 columns,25 columns,literal data
+10184,DATE,date like ,2,literal data
+10184,TIME,time like ,in,literal data
+10184,H2O,a double,"wetl""",literal data
+10184,CO2,no trailing characters,2023-07-19,literal data
+10184,CH4,no trailing characters,15:15:18,literal data
+10184,NA,22 columns,25 columns,literal data
+10185,DATE,date like ,2,literal data
+10185,TIME,time like ,in,literal data
+10185,H2O,a double,"wetl""",literal data
+10185,CO2,no trailing characters,2023-07-19,literal data
+10185,CH4,no trailing characters,15:15:19,literal data
+10185,NA,22 columns,25 columns,literal data
+10186,DATE,date like ,2,literal data
+10186,TIME,time like ,in,literal data
+10186,H2O,a double,"wetl""",literal data
+10186,CO2,no trailing characters,2023-07-19,literal data
+10186,CH4,no trailing characters,15:15:20,literal data
+10186,NA,22 columns,25 columns,literal data
+10187,DATE,date like ,2,literal data
+10187,TIME,time like ,in,literal data
+10187,H2O,a double,"wetl""",literal data
+10187,CO2,no trailing characters,2023-07-19,literal data
+10187,CH4,no trailing characters,15:15:21,literal data
+10187,NA,22 columns,25 columns,literal data
+10188,DATE,date like ,2,literal data
+10188,TIME,time like ,in,literal data
+10188,H2O,a double,"wetl""",literal data
+10188,CO2,no trailing characters,2023-07-19,literal data
+10188,CH4,no trailing characters,15:15:22,literal data
+10188,NA,22 columns,25 columns,literal data
+10189,DATE,date like ,2,literal data
+10189,TIME,time like ,in,literal data
+10189,H2O,a double,"wetl""",literal data
+10189,CO2,no trailing characters,2023-07-19,literal data
+10189,CH4,no trailing characters,15:15:23,literal data
+10189,NA,22 columns,25 columns,literal data
+10190,DATE,date like ,2,literal data
+10190,TIME,time like ,in,literal data
+10190,H2O,a double,"wetl""",literal data
+10190,CO2,no trailing characters,2023-07-19,literal data
+10190,CH4,no trailing characters,15:15:24,literal data
+10190,NA,22 columns,25 columns,literal data
+10191,DATE,date like ,2,literal data
+10191,TIME,time like ,in,literal data
+10191,H2O,a double,"wetl""",literal data
+10191,CO2,no trailing characters,2023-07-19,literal data
+10191,CH4,no trailing characters,15:15:25,literal data
+10191,NA,22 columns,25 columns,literal data
+10192,DATE,date like ,2,literal data
+10192,TIME,time like ,in,literal data
+10192,H2O,a double,"wetl""",literal data
+10192,CO2,no trailing characters,2023-07-19,literal data
+10192,CH4,no trailing characters,15:15:26,literal data
+10192,NA,22 columns,25 columns,literal data
+10193,DATE,date like ,2,literal data
+10193,TIME,time like ,in,literal data
+10193,H2O,a double,"wetl""",literal data
+10193,CO2,no trailing characters,2023-07-19,literal data
+10193,CH4,no trailing characters,15:15:27,literal data
+10193,NA,22 columns,25 columns,literal data
+10194,DATE,date like ,2,literal data
+10194,TIME,time like ,in,literal data
+10194,H2O,a double,"wetl""",literal data
+10194,CO2,no trailing characters,2023-07-19,literal data
+10194,CH4,no trailing characters,15:15:28,literal data
+10194,NA,22 columns,25 columns,literal data
+10195,DATE,date like ,2,literal data
+10195,TIME,time like ,in,literal data
+10195,H2O,a double,"wetl""",literal data
+10195,CO2,no trailing characters,2023-07-19,literal data
+10195,CH4,no trailing characters,15:15:29,literal data
+10195,NA,22 columns,25 columns,literal data
+10196,DATE,date like ,2,literal data
+10196,TIME,time like ,in,literal data
+10196,H2O,a double,"wetl""",literal data
+10196,CO2,no trailing characters,2023-07-19,literal data
+10196,CH4,no trailing characters,15:15:30,literal data
+10196,NA,22 columns,25 columns,literal data
+10197,DATE,date like ,2,literal data
+10197,TIME,time like ,in,literal data
+10197,H2O,a double,"wetl""",literal data
+10197,CO2,no trailing characters,2023-07-19,literal data
+10197,CH4,no trailing characters,15:15:31,literal data
+10197,NA,22 columns,25 columns,literal data
+10198,DATE,date like ,2,literal data
+10198,TIME,time like ,in,literal data
+10198,H2O,a double,"wetl""",literal data
+10198,CO2,no trailing characters,2023-07-19,literal data
+10198,CH4,no trailing characters,15:15:32,literal data
+10198,NA,22 columns,25 columns,literal data
+10199,DATE,date like ,2,literal data
+10199,TIME,time like ,in,literal data
+10199,H2O,a double,"wetl""",literal data
+10199,CO2,no trailing characters,2023-07-19,literal data
+10199,CH4,no trailing characters,15:15:33,literal data
+10199,NA,22 columns,25 columns,literal data
+10200,DATE,date like ,2,literal data
+10200,TIME,time like ,in,literal data
+10200,H2O,a double,"wetl""",literal data
+10200,CO2,no trailing characters,2023-07-19,literal data
+10200,CH4,no trailing characters,15:15:34,literal data
+10200,NA,22 columns,25 columns,literal data
+10201,DATE,date like ,2,literal data
+10201,TIME,time like ,in,literal data
+10201,H2O,a double,"wetl""",literal data
+10201,CO2,no trailing characters,2023-07-19,literal data
+10201,CH4,no trailing characters,15:15:35,literal data
+10201,NA,22 columns,25 columns,literal data
+10202,DATE,date like ,2,literal data
+10202,TIME,time like ,in,literal data
+10202,H2O,a double,"wetl""",literal data
+10202,CO2,no trailing characters,2023-07-19,literal data
+10202,CH4,no trailing characters,15:15:36,literal data
+10202,NA,22 columns,25 columns,literal data
+10203,DATE,date like ,2,literal data
+10203,TIME,time like ,in,literal data
+10203,H2O,a double,"wetl""",literal data
+10203,CO2,no trailing characters,2023-07-19,literal data
+10203,CH4,no trailing characters,15:15:37,literal data
+10203,NA,22 columns,25 columns,literal data
+10204,DATE,date like ,2,literal data
+10204,TIME,time like ,in,literal data
+10204,H2O,a double,"wetl""",literal data
+10204,CO2,no trailing characters,2023-07-19,literal data
+10204,CH4,no trailing characters,15:15:38,literal data
+10204,NA,22 columns,25 columns,literal data
+10205,DATE,date like ,2,literal data
+10205,TIME,time like ,in,literal data
+10205,H2O,a double,"wetl""",literal data
+10205,CO2,no trailing characters,2023-07-19,literal data
+10205,CH4,no trailing characters,15:15:39,literal data
+10205,NA,22 columns,25 columns,literal data
+10206,DATE,date like ,2,literal data
+10206,TIME,time like ,in,literal data
+10206,H2O,a double,"wetl""",literal data
+10206,CO2,no trailing characters,2023-07-19,literal data
+10206,CH4,no trailing characters,15:15:40,literal data
+10206,NA,22 columns,25 columns,literal data
+10207,DATE,date like ,2,literal data
+10207,TIME,time like ,in,literal data
+10207,H2O,a double,"wetl""",literal data
+10207,CO2,no trailing characters,2023-07-19,literal data
+10207,CH4,no trailing characters,15:15:41,literal data
+10207,NA,22 columns,25 columns,literal data
+10208,DATE,date like ,2,literal data
+10208,TIME,time like ,in,literal data
+10208,H2O,a double,"wetl""",literal data
+10208,CO2,no trailing characters,2023-07-19,literal data
+10208,CH4,no trailing characters,15:15:42,literal data
+10208,NA,22 columns,25 columns,literal data
+10209,DATE,date like ,2,literal data
+10209,TIME,time like ,in,literal data
+10209,H2O,a double,"wetl""",literal data
+10209,CO2,no trailing characters,2023-07-19,literal data
+10209,CH4,no trailing characters,15:15:43,literal data
+10209,NA,22 columns,25 columns,literal data
+10210,DATE,date like ,2,literal data
+10210,TIME,time like ,in,literal data
+10210,H2O,a double,"wetl""",literal data
+10210,CO2,no trailing characters,2023-07-19,literal data
+10210,CH4,no trailing characters,15:15:44,literal data
+10210,NA,22 columns,25 columns,literal data
+10211,DATE,date like ,2,literal data
+10211,TIME,time like ,in,literal data
+10211,H2O,a double,"wetl""",literal data
+10211,CO2,no trailing characters,2023-07-19,literal data
+10211,CH4,no trailing characters,15:15:45,literal data
+10211,NA,22 columns,25 columns,literal data
+10212,DATE,date like ,2,literal data
+10212,TIME,time like ,in,literal data
+10212,H2O,a double,"wetl""",literal data
+10212,CO2,no trailing characters,2023-07-19,literal data
+10212,CH4,no trailing characters,15:15:46,literal data
+10212,NA,22 columns,25 columns,literal data
+10213,DATE,date like ,2,literal data
+10213,TIME,time like ,in,literal data
+10213,H2O,a double,"wetl""",literal data
+10213,CO2,no trailing characters,2023-07-19,literal data
+10213,CH4,no trailing characters,15:15:47,literal data
+10213,NA,22 columns,25 columns,literal data
+10214,DATE,date like ,2,literal data
+10214,TIME,time like ,in,literal data
+10214,H2O,a double,"wetl""",literal data
+10214,CO2,no trailing characters,2023-07-19,literal data
+10214,CH4,no trailing characters,15:15:48,literal data
+10214,NA,22 columns,25 columns,literal data
+10215,DATE,date like ,2,literal data
+10215,TIME,time like ,in,literal data
+10215,H2O,a double,"wetl""",literal data
+10215,CO2,no trailing characters,2023-07-19,literal data
+10215,CH4,no trailing characters,15:15:49,literal data
+10215,NA,22 columns,25 columns,literal data
+10216,DATE,date like ,2,literal data
+10216,TIME,time like ,in,literal data
+10216,H2O,a double,"wetl""",literal data
+10216,CO2,no trailing characters,2023-07-19,literal data
+10216,CH4,no trailing characters,15:15:50,literal data
+10216,NA,22 columns,25 columns,literal data
+10217,DATE,date like ,2,literal data
+10217,TIME,time like ,in,literal data
+10217,H2O,a double,"wetl""",literal data
+10217,CO2,no trailing characters,2023-07-19,literal data
+10217,CH4,no trailing characters,15:15:51,literal data
+10217,NA,22 columns,25 columns,literal data
+10218,DATE,date like ,2,literal data
+10218,TIME,time like ,in,literal data
+10218,H2O,a double,"wetl""",literal data
+10218,CO2,no trailing characters,2023-07-19,literal data
+10218,CH4,no trailing characters,15:15:52,literal data
+10218,NA,22 columns,25 columns,literal data
+10219,DATE,date like ,2,literal data
+10219,TIME,time like ,in,literal data
+10219,H2O,a double,"wetl""",literal data
+10219,CO2,no trailing characters,2023-07-19,literal data
+10219,CH4,no trailing characters,15:15:53,literal data
+10219,NA,22 columns,25 columns,literal data
+10220,DATE,date like ,2,literal data
+10220,TIME,time like ,in,literal data
+10220,H2O,a double,"wetl""",literal data
+10220,CO2,no trailing characters,2023-07-19,literal data
+10220,CH4,no trailing characters,15:15:54,literal data
+10220,NA,22 columns,25 columns,literal data
+10221,DATE,date like ,2,literal data
+10221,TIME,time like ,in,literal data
+10221,H2O,a double,"wetl""",literal data
+10221,CO2,no trailing characters,2023-07-19,literal data
+10221,CH4,no trailing characters,15:15:55,literal data
+10221,NA,22 columns,25 columns,literal data
+10222,DATE,date like ,2,literal data
+10222,TIME,time like ,in,literal data
+10222,H2O,a double,"wetl""",literal data
+10222,CO2,no trailing characters,2023-07-19,literal data
+10222,CH4,no trailing characters,15:15:56,literal data
+10222,NA,22 columns,25 columns,literal data
+10223,DATE,date like ,2,literal data
+10223,TIME,time like ,in,literal data
+10223,H2O,a double,"wetl""",literal data
+10223,CO2,no trailing characters,2023-07-19,literal data
+10223,CH4,no trailing characters,15:15:57,literal data
+10223,NA,22 columns,25 columns,literal data
+10224,DATE,date like ,2,literal data
+10224,TIME,time like ,in,literal data
+10224,H2O,a double,"wetl""",literal data
+10224,CO2,no trailing characters,2023-07-19,literal data
+10224,CH4,no trailing characters,15:15:58,literal data
+10224,NA,22 columns,25 columns,literal data
+10225,DATE,date like ,2,literal data
+10225,TIME,time like ,in,literal data
+10225,H2O,a double,"wetl""",literal data
+10225,CO2,no trailing characters,2023-07-19,literal data
+10225,CH4,no trailing characters,15:15:59,literal data
+10225,NA,22 columns,25 columns,literal data
+10226,DATE,date like ,2,literal data
+10226,TIME,time like ,in,literal data
+10226,H2O,a double,"wetl""",literal data
+10226,CO2,no trailing characters,2023-07-19,literal data
+10226,CH4,no trailing characters,15:16:00,literal data
+10226,NA,22 columns,25 columns,literal data
+10227,DATE,date like ,2,literal data
+10227,TIME,time like ,in,literal data
+10227,H2O,a double,"wetl""",literal data
+10227,CO2,no trailing characters,2023-07-19,literal data
+10227,CH4,no trailing characters,15:16:01,literal data
+10227,NA,22 columns,25 columns,literal data
+10228,DATE,date like ,2,literal data
+10228,TIME,time like ,in,literal data
+10228,H2O,a double,"wetl""",literal data
+10228,CO2,no trailing characters,2023-07-19,literal data
+10228,CH4,no trailing characters,15:16:02,literal data
+10228,NA,22 columns,25 columns,literal data
+10229,DATE,date like ,2,literal data
+10229,TIME,time like ,in,literal data
+10229,H2O,a double,"wetl""",literal data
+10229,CO2,no trailing characters,2023-07-19,literal data
+10229,CH4,no trailing characters,15:16:03,literal data
+10229,NA,22 columns,25 columns,literal data
+10230,DATE,date like ,2,literal data
+10230,TIME,time like ,in,literal data
+10230,H2O,a double,"wetl""",literal data
+10230,CO2,no trailing characters,2023-07-19,literal data
+10230,CH4,no trailing characters,15:16:04,literal data
+10230,NA,22 columns,25 columns,literal data
+10231,DATE,date like ,2,literal data
+10231,TIME,time like ,in,literal data
+10231,H2O,a double,"wetl""",literal data
+10231,CO2,no trailing characters,2023-07-19,literal data
+10231,CH4,no trailing characters,15:16:05,literal data
+10231,NA,22 columns,25 columns,literal data
+10232,DATE,date like ,2,literal data
+10232,TIME,time like ,in,literal data
+10232,H2O,a double,"wetl""",literal data
+10232,CO2,no trailing characters,2023-07-19,literal data
+10232,CH4,no trailing characters,15:16:06,literal data
+10232,NA,22 columns,25 columns,literal data
+10233,DATE,date like ,2,literal data
+10233,TIME,time like ,in,literal data
+10233,H2O,a double,"wetl""",literal data
+10233,CO2,no trailing characters,2023-07-19,literal data
+10233,CH4,no trailing characters,15:16:07,literal data
+10233,NA,22 columns,25 columns,literal data
+10234,DATE,date like ,2,literal data
+10234,TIME,time like ,in,literal data
+10234,H2O,a double,"wetl""",literal data
+10234,CO2,no trailing characters,2023-07-19,literal data
+10234,CH4,no trailing characters,15:16:08,literal data
+10234,NA,22 columns,25 columns,literal data
+10235,DATE,date like ,2,literal data
+10235,TIME,time like ,in,literal data
+10235,H2O,a double,"wetl""",literal data
+10235,CO2,no trailing characters,2023-07-19,literal data
+10235,CH4,no trailing characters,15:16:09,literal data
+10235,NA,22 columns,25 columns,literal data
+10236,DATE,date like ,2,literal data
+10236,TIME,time like ,in,literal data
+10236,H2O,a double,"wetl""",literal data
+10236,CO2,no trailing characters,2023-07-19,literal data
+10236,CH4,no trailing characters,15:16:10,literal data
+10236,NA,22 columns,25 columns,literal data
+10237,DATE,date like ,2,literal data
+10237,TIME,time like ,in,literal data
+10237,H2O,a double,"wetl""",literal data
+10237,CO2,no trailing characters,2023-07-19,literal data
+10237,CH4,no trailing characters,15:16:11,literal data
+10237,NA,22 columns,25 columns,literal data
+10238,DATE,date like ,2,literal data
+10238,TIME,time like ,in,literal data
+10238,H2O,a double,"wetl""",literal data
+10238,CO2,no trailing characters,2023-07-19,literal data
+10238,CH4,no trailing characters,15:16:12,literal data
+10238,NA,22 columns,25 columns,literal data
+10239,DATE,date like ,2,literal data
+10239,TIME,time like ,in,literal data
+10239,H2O,a double,"wetl""",literal data
+10239,CO2,no trailing characters,2023-07-19,literal data
+10239,CH4,no trailing characters,15:16:13,literal data
+10239,NA,22 columns,25 columns,literal data
+10240,DATE,date like ,2,literal data
+10240,TIME,time like ,in,literal data
+10240,H2O,a double,"wetl""",literal data
+10240,CO2,no trailing characters,2023-07-19,literal data
+10240,CH4,no trailing characters,15:16:14,literal data
+10240,NA,22 columns,25 columns,literal data
+10241,DATE,date like ,2,literal data
+10241,TIME,time like ,in,literal data
+10241,H2O,a double,"wetl""",literal data
+10241,CO2,no trailing characters,2023-07-19,literal data
+10241,CH4,no trailing characters,15:16:15,literal data
+10241,NA,22 columns,25 columns,literal data
+10242,DATE,date like ,2,literal data
+10242,TIME,time like ,in,literal data
+10242,H2O,a double,"wetl""",literal data
+10242,CO2,no trailing characters,2023-07-19,literal data
+10242,CH4,no trailing characters,15:16:16,literal data
+10242,NA,22 columns,25 columns,literal data
+10243,DATE,date like ,2,literal data
+10243,TIME,time like ,in,literal data
+10243,H2O,a double,"wetl""",literal data
+10243,CO2,no trailing characters,2023-07-19,literal data
+10243,CH4,no trailing characters,15:16:17,literal data
+10243,NA,22 columns,25 columns,literal data
+10244,DATE,date like ,2,literal data
+10244,TIME,time like ,in,literal data
+10244,H2O,a double,"wetl""",literal data
+10244,CO2,no trailing characters,2023-07-19,literal data
+10244,CH4,no trailing characters,15:16:18,literal data
+10244,NA,22 columns,25 columns,literal data
+10245,DATE,date like ,2,literal data
+10245,TIME,time like ,in,literal data
+10245,H2O,a double,"wetl""",literal data
+10245,CO2,no trailing characters,2023-07-19,literal data
+10245,CH4,no trailing characters,15:16:19,literal data
+10245,NA,22 columns,25 columns,literal data
+10246,DATE,date like ,2,literal data
+10246,TIME,time like ,in,literal data
+10246,H2O,a double,"wetl""",literal data
+10246,CO2,no trailing characters,2023-07-19,literal data
+10246,CH4,no trailing characters,15:16:20,literal data
+10246,NA,22 columns,25 columns,literal data
+10247,DATE,date like ,2,literal data
+10247,TIME,time like ,in,literal data
+10247,H2O,a double,"wetl""",literal data
+10247,CO2,no trailing characters,2023-07-19,literal data
+10247,CH4,no trailing characters,15:16:21,literal data
+10247,NA,22 columns,25 columns,literal data
+10248,DATE,date like ,2,literal data
+10248,TIME,time like ,in,literal data
+10248,H2O,a double,"wetl""",literal data
+10248,CO2,no trailing characters,2023-07-19,literal data
+10248,CH4,no trailing characters,15:16:22,literal data
+10248,NA,22 columns,25 columns,literal data
+10249,DATE,date like ,2,literal data
+10249,TIME,time like ,in,literal data
+10249,H2O,a double,"wetl""",literal data
+10249,CO2,no trailing characters,2023-07-19,literal data
+10249,CH4,no trailing characters,15:16:23,literal data
+10249,NA,22 columns,25 columns,literal data
+10250,DATE,date like ,2,literal data
+10250,TIME,time like ,in,literal data
+10250,H2O,a double,"wetl""",literal data
+10250,CO2,no trailing characters,2023-07-19,literal data
+10250,CH4,no trailing characters,15:16:24,literal data
+10250,NA,22 columns,25 columns,literal data
+10251,DATE,date like ,2,literal data
+10251,TIME,time like ,in,literal data
+10251,H2O,a double,"wetl""",literal data
+10251,CO2,no trailing characters,2023-07-19,literal data
+10251,CH4,no trailing characters,15:16:25,literal data
+10251,NA,22 columns,25 columns,literal data
+10252,DATE,date like ,2,literal data
+10252,TIME,time like ,in,literal data
+10252,H2O,a double,"wetl""",literal data
+10252,CO2,no trailing characters,2023-07-19,literal data
+10252,CH4,no trailing characters,15:16:26,literal data
+10252,NA,22 columns,25 columns,literal data
+10253,DATE,date like ,2,literal data
+10253,TIME,time like ,in,literal data
+10253,H2O,a double,"wetl""",literal data
+10253,CO2,no trailing characters,2023-07-19,literal data
+10253,CH4,no trailing characters,15:16:27,literal data
+10253,NA,22 columns,25 columns,literal data
+10254,DATE,date like ,2,literal data
+10254,TIME,time like ,in,literal data
+10254,H2O,a double,"wetl""",literal data
+10254,CO2,no trailing characters,2023-07-19,literal data
+10254,CH4,no trailing characters,15:16:28,literal data
+10254,NA,22 columns,25 columns,literal data
+10255,DATE,date like ,2,literal data
+10255,TIME,time like ,in,literal data
+10255,H2O,a double,"wetl""",literal data
+10255,CO2,no trailing characters,2023-07-19,literal data
+10255,CH4,no trailing characters,15:16:29,literal data
+10255,NA,22 columns,25 columns,literal data
+10256,DATE,date like ,2,literal data
+10256,TIME,time like ,in,literal data
+10256,H2O,a double,"wetl""",literal data
+10256,CO2,no trailing characters,2023-07-19,literal data
+10256,CH4,no trailing characters,15:16:30,literal data
+10256,NA,22 columns,25 columns,literal data
+10257,DATE,date like ,2,literal data
+10257,TIME,time like ,in,literal data
+10257,H2O,a double,"wetl""",literal data
+10257,CO2,no trailing characters,2023-07-19,literal data
+10257,CH4,no trailing characters,15:16:31,literal data
+10257,NA,22 columns,25 columns,literal data
+10258,DATE,date like ,2,literal data
+10258,TIME,time like ,in,literal data
+10258,H2O,a double,"wetl""",literal data
+10258,CO2,no trailing characters,2023-07-19,literal data
+10258,CH4,no trailing characters,15:16:32,literal data
+10258,NA,22 columns,25 columns,literal data
+10259,DATE,date like ,2,literal data
+10259,TIME,time like ,in,literal data
+10259,H2O,a double,"wetl""",literal data
+10259,CO2,no trailing characters,2023-07-19,literal data
+10259,CH4,no trailing characters,15:16:33,literal data
+10259,NA,22 columns,25 columns,literal data
+10260,DATE,date like ,2,literal data
+10260,TIME,time like ,in,literal data
+10260,H2O,a double,"wetl""",literal data
+10260,CO2,no trailing characters,2023-07-19,literal data
+10260,CH4,no trailing characters,15:16:34,literal data
+10260,NA,22 columns,25 columns,literal data
+10261,DATE,date like ,2,literal data
+10261,TIME,time like ,in,literal data
+10261,H2O,a double,"wetl""",literal data
+10261,CO2,no trailing characters,2023-07-19,literal data
+10261,CH4,no trailing characters,15:16:35,literal data
+10261,NA,22 columns,25 columns,literal data
+10262,DATE,date like ,2,literal data
+10262,TIME,time like ,in,literal data
+10262,H2O,a double,"wetl""",literal data
+10262,CO2,no trailing characters,2023-07-19,literal data
+10262,CH4,no trailing characters,15:16:36,literal data
+10262,NA,22 columns,25 columns,literal data
+10263,DATE,date like ,2,literal data
+10263,TIME,time like ,in,literal data
+10263,H2O,a double,"wetl""",literal data
+10263,CO2,no trailing characters,2023-07-19,literal data
+10263,CH4,no trailing characters,15:16:37,literal data
+10263,NA,22 columns,25 columns,literal data
+10264,DATE,date like ,2,literal data
+10264,TIME,time like ,in,literal data
+10264,H2O,a double,"wetl""",literal data
+10264,CO2,no trailing characters,2023-07-19,literal data
+10264,CH4,no trailing characters,15:16:38,literal data
+10264,NA,22 columns,25 columns,literal data
+10265,DATE,date like ,2,literal data
+10265,TIME,time like ,in,literal data
+10265,H2O,a double,"wetl""",literal data
+10265,CO2,no trailing characters,2023-07-19,literal data
+10265,CH4,no trailing characters,15:16:39,literal data
+10265,NA,22 columns,25 columns,literal data
+10266,DATE,date like ,2,literal data
+10266,TIME,time like ,in,literal data
+10266,H2O,a double,"wetl""",literal data
+10266,CO2,no trailing characters,2023-07-19,literal data
+10266,CH4,no trailing characters,15:16:40,literal data
+10266,NA,22 columns,25 columns,literal data
+10267,DATE,date like ,2,literal data
+10267,TIME,time like ,in,literal data
+10267,H2O,a double,"wetl""",literal data
+10267,CO2,no trailing characters,2023-07-19,literal data
+10267,CH4,no trailing characters,15:16:41,literal data
+10267,NA,22 columns,25 columns,literal data
+10268,DATE,date like ,2,literal data
+10268,TIME,time like ,in,literal data
+10268,H2O,a double,"wetl""",literal data
+10268,CO2,no trailing characters,2023-07-19,literal data
+10268,CH4,no trailing characters,15:16:42,literal data
+10268,NA,22 columns,25 columns,literal data
+10269,DATE,date like ,2,literal data
+10269,TIME,time like ,in,literal data
+10269,H2O,a double,"wetl""",literal data
+10269,CO2,no trailing characters,2023-07-19,literal data
+10269,CH4,no trailing characters,15:16:43,literal data
+10269,NA,22 columns,25 columns,literal data
+10270,DATE,date like ,2,literal data
+10270,TIME,time like ,in,literal data
+10270,H2O,a double,"wetl""",literal data
+10270,CO2,no trailing characters,2023-07-19,literal data
+10270,CH4,no trailing characters,15:16:44,literal data
+10270,NA,22 columns,25 columns,literal data
+10271,DATE,date like ,2,literal data
+10271,TIME,time like ,in,literal data
+10271,H2O,a double,"wetl""",literal data
+10271,CO2,no trailing characters,2023-07-19,literal data
+10271,CH4,no trailing characters,15:16:45,literal data
+10271,NA,22 columns,25 columns,literal data
+10272,DATE,date like ,2,literal data
+10272,TIME,time like ,in,literal data
+10272,H2O,a double,"wetl""",literal data
+10272,CO2,no trailing characters,2023-07-19,literal data
+10272,CH4,no trailing characters,15:16:46,literal data
+10272,NA,22 columns,25 columns,literal data
+10273,DATE,date like ,2,literal data
+10273,TIME,time like ,in,literal data
+10273,H2O,a double,"wetl""",literal data
+10273,CO2,no trailing characters,2023-07-19,literal data
+10273,CH4,no trailing characters,15:16:47,literal data
+10273,NA,22 columns,25 columns,literal data
+10274,DATE,date like ,2,literal data
+10274,TIME,time like ,in,literal data
+10274,H2O,a double,"wetl""",literal data
+10274,CO2,no trailing characters,2023-07-19,literal data
+10274,CH4,no trailing characters,15:16:48,literal data
+10274,NA,22 columns,25 columns,literal data
+10275,DATE,date like ,2,literal data
+10275,TIME,time like ,in,literal data
+10275,H2O,a double,"wetl""",literal data
+10275,CO2,no trailing characters,2023-07-19,literal data
+10275,CH4,no trailing characters,15:16:49,literal data
+10275,NA,22 columns,25 columns,literal data
+10276,DATE,date like ,2,literal data
+10276,TIME,time like ,in,literal data
+10276,H2O,a double,"wetl""",literal data
+10276,CO2,no trailing characters,2023-07-19,literal data
+10276,CH4,no trailing characters,15:16:50,literal data
+10276,NA,22 columns,25 columns,literal data
+10277,DATE,date like ,2,literal data
+10277,TIME,time like ,in,literal data
+10277,H2O,a double,"wetl""",literal data
+10277,CO2,no trailing characters,2023-07-19,literal data
+10277,CH4,no trailing characters,15:16:51,literal data
+10277,NA,22 columns,25 columns,literal data
+10278,DATE,date like ,2,literal data
+10278,TIME,time like ,in,literal data
+10278,H2O,a double,"wetl""",literal data
+10278,CO2,no trailing characters,2023-07-19,literal data
+10278,CH4,no trailing characters,15:16:52,literal data
+10278,NA,22 columns,25 columns,literal data
+10279,DATE,date like ,2,literal data
+10279,TIME,time like ,in,literal data
+10279,H2O,a double,"wetl""",literal data
+10279,CO2,no trailing characters,2023-07-19,literal data
+10279,CH4,no trailing characters,15:16:53,literal data
+10279,NA,22 columns,25 columns,literal data
+10280,DATE,date like ,2,literal data
+10280,TIME,time like ,in,literal data
+10280,H2O,a double,"wetl""",literal data
+10280,CO2,no trailing characters,2023-07-19,literal data
+10280,CH4,no trailing characters,15:16:54,literal data
+10280,NA,22 columns,25 columns,literal data
+10281,DATE,date like ,2,literal data
+10281,TIME,time like ,in,literal data
+10281,H2O,a double,"wetl""",literal data
+10281,CO2,no trailing characters,2023-07-19,literal data
+10281,CH4,no trailing characters,15:16:55,literal data
+10281,NA,22 columns,25 columns,literal data
+10282,DATE,date like ,2,literal data
+10282,TIME,time like ,in,literal data
+10282,H2O,a double,"wetl""",literal data
+10282,CO2,no trailing characters,2023-07-19,literal data
+10282,CH4,no trailing characters,15:16:56,literal data
+10282,NA,22 columns,25 columns,literal data
+10283,DATE,date like ,2,literal data
+10283,TIME,time like ,in,literal data
+10283,H2O,a double,"wetl""",literal data
+10283,CO2,no trailing characters,2023-07-19,literal data
+10283,CH4,no trailing characters,15:16:57,literal data
+10283,NA,22 columns,25 columns,literal data
+10284,DATE,date like ,2,literal data
+10284,TIME,time like ,in,literal data
+10284,H2O,a double,"wetl""",literal data
+10284,CO2,no trailing characters,2023-07-19,literal data
+10284,CH4,no trailing characters,15:16:58,literal data
+10284,NA,22 columns,25 columns,literal data
+10285,DATE,date like ,2,literal data
+10285,TIME,time like ,in,literal data
+10285,H2O,a double,"wetl""",literal data
+10285,CO2,no trailing characters,2023-07-19,literal data
+10285,CH4,no trailing characters,15:16:59,literal data
+10285,NA,22 columns,25 columns,literal data
+10286,DATE,date like ,2,literal data
+10286,TIME,time like ,in,literal data
+10286,H2O,a double,"wetl""",literal data
+10286,CO2,no trailing characters,2023-07-19,literal data
+10286,CH4,no trailing characters,15:17:00,literal data
+10286,NA,22 columns,25 columns,literal data
+10287,DATE,date like ,2,literal data
+10287,TIME,time like ,in,literal data
+10287,H2O,a double,"wetl""",literal data
+10287,CO2,no trailing characters,2023-07-19,literal data
+10287,CH4,no trailing characters,15:17:01,literal data
+10287,NA,22 columns,25 columns,literal data
+10288,DATE,date like ,2,literal data
+10288,TIME,time like ,in,literal data
+10288,H2O,a double,"wetl""",literal data
+10288,CO2,no trailing characters,2023-07-19,literal data
+10288,CH4,no trailing characters,15:17:02,literal data
+10288,NA,22 columns,25 columns,literal data
+10289,DATE,date like ,2,literal data
+10289,TIME,time like ,in,literal data
+10289,H2O,a double,"wetl""",literal data
+10289,CO2,no trailing characters,2023-07-19,literal data
+10289,CH4,no trailing characters,15:17:03,literal data
+10289,NA,22 columns,25 columns,literal data
+10290,DATE,date like ,2,literal data
+10290,TIME,time like ,in,literal data
+10290,H2O,a double,"wetl""",literal data
+10290,CO2,no trailing characters,2023-07-19,literal data
+10290,CH4,no trailing characters,15:17:04,literal data
+10290,NA,22 columns,25 columns,literal data
+10291,DATE,date like ,2,literal data
+10291,TIME,time like ,in,literal data
+10291,H2O,a double,"wetl""",literal data
+10291,CO2,no trailing characters,2023-07-19,literal data
+10291,CH4,no trailing characters,15:17:05,literal data
+10291,NA,22 columns,25 columns,literal data
+10292,DATE,date like ,2,literal data
+10292,TIME,time like ,in,literal data
+10292,H2O,a double,"wetl""",literal data
+10292,CO2,no trailing characters,2023-07-19,literal data
+10292,CH4,no trailing characters,15:17:06,literal data
+10292,NA,22 columns,25 columns,literal data
+10293,DATE,date like ,2,literal data
+10293,TIME,time like ,in,literal data
+10293,H2O,a double,"wetl""",literal data
+10293,CO2,no trailing characters,2023-07-19,literal data
+10293,CH4,no trailing characters,15:17:07,literal data
+10293,NA,22 columns,25 columns,literal data
+10294,DATE,date like ,2,literal data
+10294,TIME,time like ,in,literal data
+10294,H2O,a double,"wetl""",literal data
+10294,CO2,no trailing characters,2023-07-19,literal data
+10294,CH4,no trailing characters,15:17:08,literal data
+10294,NA,22 columns,25 columns,literal data
+10295,DATE,date like ,2,literal data
+10295,TIME,time like ,in,literal data
+10295,H2O,a double,"wetl""",literal data
+10295,CO2,no trailing characters,2023-07-19,literal data
+10295,CH4,no trailing characters,15:17:09,literal data
+10295,NA,22 columns,25 columns,literal data
+10296,DATE,date like ,2,literal data
+10296,TIME,time like ,in,literal data
+10296,H2O,a double,"wetl""",literal data
+10296,CO2,no trailing characters,2023-07-19,literal data
+10296,CH4,no trailing characters,15:17:10,literal data
+10296,NA,22 columns,25 columns,literal data
+10297,DATE,date like ,2,literal data
+10297,TIME,time like ,in,literal data
+10297,H2O,a double,"wetl""",literal data
+10297,CO2,no trailing characters,2023-07-19,literal data
+10297,CH4,no trailing characters,15:17:11,literal data
+10297,NA,22 columns,25 columns,literal data
+10298,DATE,date like ,2,literal data
+10298,TIME,time like ,in,literal data
+10298,H2O,a double,"wetl""",literal data
+10298,CO2,no trailing characters,2023-07-19,literal data
+10298,CH4,no trailing characters,15:17:12,literal data
+10298,NA,22 columns,25 columns,literal data
+10299,DATE,date like ,2,literal data
+10299,TIME,time like ,in,literal data
+10299,H2O,a double,"wetl""",literal data
+10299,CO2,no trailing characters,2023-07-19,literal data
+10299,CH4,no trailing characters,15:17:13,literal data
+10299,NA,22 columns,25 columns,literal data
+10300,DATE,date like ,2,literal data
+10300,TIME,time like ,in,literal data
+10300,H2O,a double,"wetl""",literal data
+10300,CO2,no trailing characters,2023-07-19,literal data
+10300,CH4,no trailing characters,15:17:14,literal data
+10300,NA,22 columns,25 columns,literal data
+10301,DATE,date like ,2,literal data
+10301,TIME,time like ,in,literal data
+10301,H2O,a double,"wetl""",literal data
+10301,CO2,no trailing characters,2023-07-19,literal data
+10301,CH4,no trailing characters,15:17:15,literal data
+10301,NA,22 columns,25 columns,literal data
+10302,DATE,date like ,2,literal data
+10302,TIME,time like ,in,literal data
+10302,H2O,a double,"wetl""",literal data
+10302,CO2,no trailing characters,2023-07-19,literal data
+10302,CH4,no trailing characters,15:17:16,literal data
+10302,NA,22 columns,25 columns,literal data
+10303,DATE,date like ,2,literal data
+10303,TIME,time like ,in,literal data
+10303,H2O,a double,"wetl""",literal data
+10303,CO2,no trailing characters,2023-07-19,literal data
+10303,CH4,no trailing characters,15:17:17,literal data
+10303,NA,22 columns,25 columns,literal data
+10304,DATE,date like ,2,literal data
+10304,TIME,time like ,in,literal data
+10304,H2O,a double,"wetl""",literal data
+10304,CO2,no trailing characters,2023-07-19,literal data
+10304,CH4,no trailing characters,15:17:18,literal data
+10304,NA,22 columns,25 columns,literal data
+10305,DATE,date like ,2,literal data
+10305,TIME,time like ,in,literal data
+10305,H2O,a double,"wetl""",literal data
+10305,CO2,no trailing characters,2023-07-19,literal data
+10305,CH4,no trailing characters,15:17:19,literal data
+10305,NA,22 columns,25 columns,literal data
+10306,DATE,date like ,2,literal data
+10306,TIME,time like ,in,literal data
+10306,H2O,a double,"wetl""",literal data
+10306,CO2,no trailing characters,2023-07-19,literal data
+10306,CH4,no trailing characters,15:17:20,literal data
+10306,NA,22 columns,25 columns,literal data
+10307,DATE,date like ,2,literal data
+10307,TIME,time like ,in,literal data
+10307,H2O,a double,"wetl""",literal data
+10307,CO2,no trailing characters,2023-07-19,literal data
+10307,CH4,no trailing characters,15:17:21,literal data
+10307,NA,22 columns,25 columns,literal data
+10308,DATE,date like ,2,literal data
+10308,TIME,time like ,in,literal data
+10308,H2O,a double,"wetl""",literal data
+10308,CO2,no trailing characters,2023-07-19,literal data
+10308,CH4,no trailing characters,15:17:22,literal data
+10308,NA,22 columns,25 columns,literal data
+10309,DATE,date like ,2,literal data
+10309,TIME,time like ,in,literal data
+10309,H2O,a double,"wetl""",literal data
+10309,CO2,no trailing characters,2023-07-19,literal data
+10309,CH4,no trailing characters,15:17:23,literal data
+10309,NA,22 columns,25 columns,literal data
+10310,DATE,date like ,2,literal data
+10310,TIME,time like ,in,literal data
+10310,H2O,a double,"wetl""",literal data
+10310,CO2,no trailing characters,2023-07-19,literal data
+10310,CH4,no trailing characters,15:17:24,literal data
+10310,NA,22 columns,25 columns,literal data
+10311,DATE,date like ,2,literal data
+10311,TIME,time like ,in,literal data
+10311,H2O,a double,"wetl""",literal data
+10311,CO2,no trailing characters,2023-07-19,literal data
+10311,CH4,no trailing characters,15:17:25,literal data
+10311,NA,22 columns,25 columns,literal data
+10312,DATE,date like ,2,literal data
+10312,TIME,time like ,in,literal data
+10312,H2O,a double,"wetl""",literal data
+10312,CO2,no trailing characters,2023-07-19,literal data
+10312,CH4,no trailing characters,15:17:26,literal data
+10312,NA,22 columns,25 columns,literal data
+10313,DATE,date like ,2,literal data
+10313,TIME,time like ,in,literal data
+10313,H2O,a double,"wetl""",literal data
+10313,CO2,no trailing characters,2023-07-19,literal data
+10313,CH4,no trailing characters,15:17:27,literal data
+10313,NA,22 columns,25 columns,literal data
+10314,DATE,date like ,2,literal data
+10314,TIME,time like ,in,literal data
+10314,H2O,a double,"wetl""",literal data
+10314,CO2,no trailing characters,2023-07-19,literal data
+10314,CH4,no trailing characters,15:17:28,literal data
+10314,NA,22 columns,25 columns,literal data
+10315,DATE,date like ,2,literal data
+10315,TIME,time like ,in,literal data
+10315,H2O,a double,"wetl""",literal data
+10315,CO2,no trailing characters,2023-07-19,literal data
+10315,CH4,no trailing characters,15:17:29,literal data
+10315,NA,22 columns,25 columns,literal data
+10316,DATE,date like ,2,literal data
+10316,TIME,time like ,in,literal data
+10316,H2O,a double,"wetl""",literal data
+10316,CO2,no trailing characters,2023-07-19,literal data
+10316,CH4,no trailing characters,15:17:30,literal data
+10316,NA,22 columns,25 columns,literal data
+10317,DATE,date like ,2,literal data
+10317,TIME,time like ,in,literal data
+10317,H2O,a double,"wetl""",literal data
+10317,CO2,no trailing characters,2023-07-19,literal data
+10317,CH4,no trailing characters,15:17:31,literal data
+10317,NA,22 columns,25 columns,literal data
+10318,DATE,date like ,2,literal data
+10318,TIME,time like ,in,literal data
+10318,H2O,a double,"wetl""",literal data
+10318,CO2,no trailing characters,2023-07-19,literal data
+10318,CH4,no trailing characters,15:17:32,literal data
+10318,NA,22 columns,25 columns,literal data
+10319,DATE,date like ,2,literal data
+10319,TIME,time like ,in,literal data
+10319,H2O,a double,"wetl""",literal data
+10319,CO2,no trailing characters,2023-07-19,literal data
+10319,CH4,no trailing characters,15:17:33,literal data
+10319,NA,22 columns,25 columns,literal data
+10320,DATE,date like ,2,literal data
+10320,TIME,time like ,in,literal data
+10320,H2O,a double,"wetl""",literal data
+10320,CO2,no trailing characters,2023-07-19,literal data
+10320,CH4,no trailing characters,15:17:34,literal data
+10320,NA,22 columns,25 columns,literal data
+10321,DATE,date like ,2,literal data
+10321,TIME,time like ,in,literal data
+10321,H2O,a double,"wetl""",literal data
+10321,CO2,no trailing characters,2023-07-19,literal data
+10321,CH4,no trailing characters,15:17:35,literal data
+10321,NA,22 columns,25 columns,literal data
+10322,DATE,date like ,2,literal data
+10322,TIME,time like ,in,literal data
+10322,H2O,a double,"wetl""",literal data
+10322,CO2,no trailing characters,2023-07-19,literal data
+10322,CH4,no trailing characters,15:17:36,literal data
+10322,NA,22 columns,25 columns,literal data
+10323,DATE,date like ,2,literal data
+10323,TIME,time like ,in,literal data
+10323,H2O,a double,"wetl""",literal data
+10323,CO2,no trailing characters,2023-07-19,literal data
+10323,CH4,no trailing characters,15:17:37,literal data
+10323,NA,22 columns,25 columns,literal data
+10324,DATE,date like ,2,literal data
+10324,TIME,time like ,in,literal data
+10324,H2O,a double,"wetl""",literal data
+10324,CO2,no trailing characters,2023-07-19,literal data
+10324,CH4,no trailing characters,15:17:38,literal data
+10324,NA,22 columns,25 columns,literal data
+10325,DATE,date like ,2,literal data
+10325,TIME,time like ,in,literal data
+10325,H2O,a double,"wetl""",literal data
+10325,CO2,no trailing characters,2023-07-19,literal data
+10325,CH4,no trailing characters,15:17:39,literal data
+10325,NA,22 columns,25 columns,literal data
+10326,DATE,date like ,2,literal data
+10326,TIME,time like ,in,literal data
+10326,H2O,a double,"wetl""",literal data
+10326,CO2,no trailing characters,2023-07-19,literal data
+10326,CH4,no trailing characters,15:17:40,literal data
+10326,NA,22 columns,25 columns,literal data
+10327,DATE,date like ,2,literal data
+10327,TIME,time like ,in,literal data
+10327,H2O,a double,"wetl""",literal data
+10327,CO2,no trailing characters,2023-07-19,literal data
+10327,CH4,no trailing characters,15:17:41,literal data
+10327,NA,22 columns,25 columns,literal data
+10328,DATE,date like ,2,literal data
+10328,TIME,time like ,in,literal data
+10328,H2O,a double,"wetl""",literal data
+10328,CO2,no trailing characters,2023-07-19,literal data
+10328,CH4,no trailing characters,15:17:42,literal data
+10328,NA,22 columns,25 columns,literal data
+10329,DATE,date like ,2,literal data
+10329,TIME,time like ,in,literal data
+10329,H2O,a double,"wetl""",literal data
+10329,CO2,no trailing characters,2023-07-19,literal data
+10329,CH4,no trailing characters,15:17:43,literal data
+10329,NA,22 columns,25 columns,literal data
+10330,DATE,date like ,2,literal data
+10330,TIME,time like ,in,literal data
+10330,H2O,a double,"wetl""",literal data
+10330,CO2,no trailing characters,2023-07-19,literal data
+10330,CH4,no trailing characters,15:17:44,literal data
+10330,NA,22 columns,25 columns,literal data
+10331,DATE,date like ,2,literal data
+10331,TIME,time like ,in,literal data
+10331,H2O,a double,"wetl""",literal data
+10331,CO2,no trailing characters,2023-07-19,literal data
+10331,CH4,no trailing characters,15:17:45,literal data
+10331,NA,22 columns,25 columns,literal data
+10332,DATE,date like ,2,literal data
+10332,TIME,time like ,in,literal data
+10332,H2O,a double,"wetl""",literal data
+10332,CO2,no trailing characters,2023-07-19,literal data
+10332,CH4,no trailing characters,15:17:46,literal data
+10332,NA,22 columns,25 columns,literal data
+10333,DATE,date like ,2,literal data
+10333,TIME,time like ,in,literal data
+10333,H2O,a double,"wetl""",literal data
+10333,CO2,no trailing characters,2023-07-19,literal data
+10333,CH4,no trailing characters,15:17:47,literal data
+10333,NA,22 columns,25 columns,literal data
+10334,DATE,date like ,2,literal data
+10334,TIME,time like ,in,literal data
+10334,H2O,a double,"wetl""",literal data
+10334,CO2,no trailing characters,2023-07-19,literal data
+10334,CH4,no trailing characters,15:17:48,literal data
+10334,NA,22 columns,25 columns,literal data
+10335,DATE,date like ,2,literal data
+10335,TIME,time like ,in,literal data
+10335,H2O,a double,"wetl""",literal data
+10335,CO2,no trailing characters,2023-07-19,literal data
+10335,CH4,no trailing characters,15:17:49,literal data
+10335,NA,22 columns,25 columns,literal data
+10336,DATE,date like ,2,literal data
+10336,TIME,time like ,in,literal data
+10336,H2O,a double,"wetl""",literal data
+10336,CO2,no trailing characters,2023-07-19,literal data
+10336,CH4,no trailing characters,15:17:50,literal data
+10336,NA,22 columns,25 columns,literal data
+10337,DATE,date like ,2,literal data
+10337,TIME,time like ,in,literal data
+10337,H2O,a double,"wetl""",literal data
+10337,CO2,no trailing characters,2023-07-19,literal data
+10337,CH4,no trailing characters,15:17:51,literal data
+10337,NA,22 columns,25 columns,literal data
+10338,DATE,date like ,2,literal data
+10338,TIME,time like ,in,literal data
+10338,H2O,a double,"wetl""",literal data
+10338,CO2,no trailing characters,2023-07-19,literal data
+10338,CH4,no trailing characters,15:17:52,literal data
+10338,NA,22 columns,25 columns,literal data
+10339,DATE,date like ,2,literal data
+10339,TIME,time like ,in,literal data
+10339,H2O,a double,"wetl""",literal data
+10339,CO2,no trailing characters,2023-07-19,literal data
+10339,CH4,no trailing characters,15:17:53,literal data
+10339,NA,22 columns,25 columns,literal data
+10340,DATE,date like ,2,literal data
+10340,TIME,time like ,in,literal data
+10340,H2O,a double,"wetl""",literal data
+10340,CO2,no trailing characters,2023-07-19,literal data
+10340,CH4,no trailing characters,15:17:54,literal data
+10340,NA,22 columns,25 columns,literal data
+10341,DATE,date like ,2,literal data
+10341,TIME,time like ,in,literal data
+10341,H2O,a double,"wetl""",literal data
+10341,CO2,no trailing characters,2023-07-19,literal data
+10341,CH4,no trailing characters,15:17:55,literal data
+10341,NA,22 columns,25 columns,literal data
+10342,DATE,date like ,2,literal data
+10342,TIME,time like ,in,literal data
+10342,H2O,a double,"wetl""",literal data
+10342,CO2,no trailing characters,2023-07-19,literal data
+10342,CH4,no trailing characters,15:17:56,literal data
+10342,NA,22 columns,25 columns,literal data
+10343,DATE,date like ,2,literal data
+10343,TIME,time like ,in,literal data
+10343,H2O,a double,"wetl""",literal data
+10343,CO2,no trailing characters,2023-07-19,literal data
+10343,CH4,no trailing characters,15:17:57,literal data
+10343,NA,22 columns,25 columns,literal data
+10344,DATE,date like ,2,literal data
+10344,TIME,time like ,in,literal data
+10344,H2O,a double,"wetl""",literal data
+10344,CO2,no trailing characters,2023-07-19,literal data
+10344,CH4,no trailing characters,15:17:58,literal data
+10344,NA,22 columns,25 columns,literal data
+10345,DATE,date like ,2,literal data
+10345,TIME,time like ,in,literal data
+10345,H2O,a double,"wetl""",literal data
+10345,CO2,no trailing characters,2023-07-19,literal data
+10345,CH4,no trailing characters,15:17:59,literal data
+10345,NA,22 columns,25 columns,literal data
+10346,DATE,date like ,2,literal data
+10346,TIME,time like ,in,literal data
+10346,H2O,a double,"wetl""",literal data
+10346,CO2,no trailing characters,2023-07-19,literal data
+10346,CH4,no trailing characters,15:18:00,literal data
+10346,NA,22 columns,25 columns,literal data
+10347,DATE,date like ,2,literal data
+10347,TIME,time like ,in,literal data
+10347,H2O,a double,"wetl""",literal data
+10347,CO2,no trailing characters,2023-07-19,literal data
+10347,CH4,no trailing characters,15:18:01,literal data
+10347,NA,22 columns,25 columns,literal data
+10348,DATE,date like ,2,literal data
+10348,TIME,time like ,in,literal data
+10348,H2O,a double,"wetl""",literal data
+10348,CO2,no trailing characters,2023-07-19,literal data
+10348,CH4,no trailing characters,15:18:02,literal data
+10348,NA,22 columns,25 columns,literal data
+10349,DATE,date like ,2,literal data
+10349,TIME,time like ,in,literal data
+10349,H2O,a double,"wetl""",literal data
+10349,CO2,no trailing characters,2023-07-19,literal data
+10349,CH4,no trailing characters,15:18:03,literal data
+10349,NA,22 columns,25 columns,literal data
+10350,DATE,date like ,2,literal data
+10350,TIME,time like ,in,literal data
+10350,H2O,a double,"wetl""",literal data
+10350,CO2,no trailing characters,2023-07-19,literal data
+10350,CH4,no trailing characters,15:18:04,literal data
+10350,NA,22 columns,25 columns,literal data
+10351,DATE,date like ,2,literal data
+10351,TIME,time like ,in,literal data
+10351,H2O,a double,"wetl""",literal data
+10351,CO2,no trailing characters,2023-07-19,literal data
+10351,CH4,no trailing characters,15:18:05,literal data
+10351,NA,22 columns,25 columns,literal data
+10352,DATE,date like ,2,literal data
+10352,TIME,time like ,in,literal data
+10352,H2O,a double,"wetl""",literal data
+10352,CO2,no trailing characters,2023-07-19,literal data
+10352,CH4,no trailing characters,15:18:06,literal data
+10352,NA,22 columns,25 columns,literal data
+10353,DATE,date like ,2,literal data
+10353,TIME,time like ,in,literal data
+10353,H2O,a double,"wetl""",literal data
+10353,CO2,no trailing characters,2023-07-19,literal data
+10353,CH4,no trailing characters,15:18:07,literal data
+10353,NA,22 columns,25 columns,literal data
+10354,DATE,date like ,2,literal data
+10354,TIME,time like ,in,literal data
+10354,H2O,a double,"wetl""",literal data
+10354,CO2,no trailing characters,2023-07-19,literal data
+10354,CH4,no trailing characters,15:18:08,literal data
+10354,NA,22 columns,25 columns,literal data
+10355,DATE,date like ,2,literal data
+10355,TIME,time like ,in,literal data
+10355,H2O,a double,"wetl""",literal data
+10355,CO2,no trailing characters,2023-07-19,literal data
+10355,CH4,no trailing characters,15:18:09,literal data
+10355,NA,22 columns,25 columns,literal data
+10356,DATE,date like ,2,literal data
+10356,TIME,time like ,in,literal data
+10356,H2O,a double,"wetl""",literal data
+10356,CO2,no trailing characters,2023-07-19,literal data
+10356,CH4,no trailing characters,15:18:10,literal data
+10356,NA,22 columns,25 columns,literal data
+10357,DATE,date like ,2,literal data
+10357,TIME,time like ,in,literal data
+10357,H2O,a double,"wetl""",literal data
+10357,CO2,no trailing characters,2023-07-19,literal data
+10357,CH4,no trailing characters,15:18:11,literal data
+10357,NA,22 columns,25 columns,literal data
+10358,DATE,date like ,2,literal data
+10358,TIME,time like ,in,literal data
+10358,H2O,a double,"wetl""",literal data
+10358,CO2,no trailing characters,2023-07-19,literal data
+10358,CH4,no trailing characters,15:18:12,literal data
+10358,NA,22 columns,25 columns,literal data
+10359,DATE,date like ,2,literal data
+10359,TIME,time like ,in,literal data
+10359,H2O,a double,"wetl""",literal data
+10359,CO2,no trailing characters,2023-07-19,literal data
+10359,CH4,no trailing characters,15:18:13,literal data
+10359,NA,22 columns,25 columns,literal data
+10360,DATE,date like ,2,literal data
+10360,TIME,time like ,in,literal data
+10360,H2O,a double,"wetl""",literal data
+10360,CO2,no trailing characters,2023-07-19,literal data
+10360,CH4,no trailing characters,15:18:14,literal data
+10360,NA,22 columns,25 columns,literal data
+10361,DATE,date like ,2,literal data
+10361,TIME,time like ,in,literal data
+10361,H2O,a double,"wetl""",literal data
+10361,CO2,no trailing characters,2023-07-19,literal data
+10361,CH4,no trailing characters,15:18:15,literal data
+10361,NA,22 columns,25 columns,literal data
+10362,DATE,date like ,2,literal data
+10362,TIME,time like ,in,literal data
+10362,H2O,a double,"wetl""",literal data
+10362,CO2,no trailing characters,2023-07-19,literal data
+10362,CH4,no trailing characters,15:18:16,literal data
+10362,NA,22 columns,25 columns,literal data
+10363,DATE,date like ,2,literal data
+10363,TIME,time like ,in,literal data
+10363,H2O,a double,"wetl""",literal data
+10363,CO2,no trailing characters,2023-07-19,literal data
+10363,CH4,no trailing characters,15:18:17,literal data
+10363,NA,22 columns,25 columns,literal data
+10364,DATE,date like ,2,literal data
+10364,TIME,time like ,in,literal data
+10364,H2O,a double,"wetl""",literal data
+10364,CO2,no trailing characters,2023-07-19,literal data
+10364,CH4,no trailing characters,15:18:18,literal data
+10364,NA,22 columns,25 columns,literal data
+10365,DATE,date like ,2,literal data
+10365,TIME,time like ,in,literal data
+10365,H2O,a double,"wetl""",literal data
+10365,CO2,no trailing characters,2023-07-19,literal data
+10365,CH4,no trailing characters,15:18:19,literal data
+10365,NA,22 columns,25 columns,literal data
+10366,DATE,date like ,2,literal data
+10366,TIME,time like ,in,literal data
+10366,H2O,a double,"wetl""",literal data
+10366,CO2,no trailing characters,2023-07-19,literal data
+10366,CH4,no trailing characters,15:18:20,literal data
+10366,NA,22 columns,25 columns,literal data
+10367,DATE,date like ,2,literal data
+10367,TIME,time like ,in,literal data
+10367,H2O,a double,"wetl""",literal data
+10367,CO2,no trailing characters,2023-07-19,literal data
+10367,CH4,no trailing characters,15:18:21,literal data
+10367,NA,22 columns,25 columns,literal data
+10368,DATE,date like ,2,literal data
+10368,TIME,time like ,in,literal data
+10368,H2O,a double,"wetl""",literal data
+10368,CO2,no trailing characters,2023-07-19,literal data
+10368,CH4,no trailing characters,15:18:22,literal data
+10368,NA,22 columns,25 columns,literal data
+10369,DATE,date like ,2,literal data
+10369,TIME,time like ,in,literal data
+10369,H2O,a double,"wetl""",literal data
+10369,CO2,no trailing characters,2023-07-19,literal data
+10369,CH4,no trailing characters,15:18:23,literal data
+10369,NA,22 columns,25 columns,literal data
+10370,DATE,date like ,2,literal data
+10370,TIME,time like ,in,literal data
+10370,H2O,a double,"wetl""",literal data
+10370,CO2,no trailing characters,2023-07-19,literal data
+10370,CH4,no trailing characters,15:18:24,literal data
+10370,NA,22 columns,25 columns,literal data
+10371,DATE,date like ,2,literal data
+10371,TIME,time like ,in,literal data
+10371,H2O,a double,"wetl""",literal data
+10371,CO2,no trailing characters,2023-07-19,literal data
+10371,CH4,no trailing characters,15:18:25,literal data
+10371,NA,22 columns,25 columns,literal data
+10372,DATE,date like ,2,literal data
+10372,TIME,time like ,in,literal data
+10372,H2O,a double,"wetl""",literal data
+10372,CO2,no trailing characters,2023-07-19,literal data
+10372,CH4,no trailing characters,15:18:26,literal data
+10372,NA,22 columns,25 columns,literal data
+10373,DATE,date like ,2,literal data
+10373,TIME,time like ,in,literal data
+10373,H2O,a double,"wetl""",literal data
+10373,CO2,no trailing characters,2023-07-19,literal data
+10373,CH4,no trailing characters,15:18:27,literal data
+10373,NA,22 columns,25 columns,literal data
+10374,DATE,date like ,2,literal data
+10374,TIME,time like ,in,literal data
+10374,H2O,a double,"wetl""",literal data
+10374,CO2,no trailing characters,2023-07-19,literal data
+10374,CH4,no trailing characters,15:18:28,literal data
+10374,NA,22 columns,25 columns,literal data
+10375,DATE,date like ,2,literal data
+10375,TIME,time like ,in,literal data
+10375,H2O,a double,"wetl""",literal data
+10375,CO2,no trailing characters,2023-07-19,literal data
+10375,CH4,no trailing characters,15:18:29,literal data
+10375,NA,22 columns,25 columns,literal data
+10376,DATE,date like ,2,literal data
+10376,TIME,time like ,in,literal data
+10376,H2O,a double,"wetl""",literal data
+10376,CO2,no trailing characters,2023-07-19,literal data
+10376,CH4,no trailing characters,15:18:30,literal data
+10376,NA,22 columns,25 columns,literal data
+10377,DATE,date like ,2,literal data
+10377,TIME,time like ,in,literal data
+10377,H2O,a double,"wetl""",literal data
+10377,CO2,no trailing characters,2023-07-19,literal data
+10377,CH4,no trailing characters,15:18:31,literal data
+10377,NA,22 columns,25 columns,literal data
+10378,DATE,date like ,2,literal data
+10378,TIME,time like ,in,literal data
+10378,H2O,a double,"wetl""",literal data
+10378,CO2,no trailing characters,2023-07-19,literal data
+10378,CH4,no trailing characters,15:18:32,literal data
+10378,NA,22 columns,25 columns,literal data
+10379,DATE,date like ,2,literal data
+10379,TIME,time like ,in,literal data
+10379,H2O,a double,"wetl""",literal data
+10379,CO2,no trailing characters,2023-07-19,literal data
+10379,CH4,no trailing characters,15:18:33,literal data
+10379,NA,22 columns,25 columns,literal data
+10380,DATE,date like ,2,literal data
+10380,TIME,time like ,in,literal data
+10380,H2O,a double,"wetl""",literal data
+10380,CO2,no trailing characters,2023-07-19,literal data
+10380,CH4,no trailing characters,15:18:34,literal data
+10380,NA,22 columns,25 columns,literal data
+10381,DATE,date like ,2,literal data
+10381,TIME,time like ,in,literal data
+10381,H2O,a double,"wetl""",literal data
+10381,CO2,no trailing characters,2023-07-19,literal data
+10381,CH4,no trailing characters,15:18:35,literal data
+10381,NA,22 columns,25 columns,literal data
+10382,DATE,date like ,2,literal data
+10382,TIME,time like ,in,literal data
+10382,H2O,a double,"wetl""",literal data
+10382,CO2,no trailing characters,2023-07-19,literal data
+10382,CH4,no trailing characters,15:18:36,literal data
+10382,NA,22 columns,25 columns,literal data
+10383,DATE,date like ,2,literal data
+10383,TIME,time like ,in,literal data
+10383,H2O,a double,"wetl""",literal data
+10383,CO2,no trailing characters,2023-07-19,literal data
+10383,CH4,no trailing characters,15:18:37,literal data
+10383,NA,22 columns,25 columns,literal data
+10384,DATE,date like ,2,literal data
+10384,TIME,time like ,in,literal data
+10384,H2O,a double,"wetl""",literal data
+10384,CO2,no trailing characters,2023-07-19,literal data
+10384,CH4,no trailing characters,15:18:38,literal data
+10384,NA,22 columns,25 columns,literal data
+10385,DATE,date like ,2,literal data
+10385,TIME,time like ,in,literal data
+10385,H2O,a double,"wetl""",literal data
+10385,CO2,no trailing characters,2023-07-19,literal data
+10385,CH4,no trailing characters,15:18:39,literal data
+10385,NA,22 columns,25 columns,literal data
+10386,DATE,date like ,2,literal data
+10386,TIME,time like ,in,literal data
+10386,H2O,a double,"wetl""",literal data
+10386,CO2,no trailing characters,2023-07-19,literal data
+10386,CH4,no trailing characters,15:18:40,literal data
+10386,NA,22 columns,25 columns,literal data
+10387,DATE,date like ,2,literal data
+10387,TIME,time like ,in,literal data
+10387,H2O,a double,"wetl""",literal data
+10387,CO2,no trailing characters,2023-07-19,literal data
+10387,CH4,no trailing characters,15:18:41,literal data
+10387,NA,22 columns,25 columns,literal data
+10388,DATE,date like ,2,literal data
+10388,TIME,time like ,in,literal data
+10388,H2O,a double,"wetl""",literal data
+10388,CO2,no trailing characters,2023-07-19,literal data
+10388,CH4,no trailing characters,15:18:42,literal data
+10388,NA,22 columns,25 columns,literal data
+10389,DATE,date like ,2,literal data
+10389,TIME,time like ,in,literal data
+10389,H2O,a double,"wetl""",literal data
+10389,CO2,no trailing characters,2023-07-19,literal data
+10389,CH4,no trailing characters,15:18:43,literal data
+10389,NA,22 columns,25 columns,literal data
+10390,DATE,date like ,2,literal data
+10390,TIME,time like ,in,literal data
+10390,H2O,a double,"wetl""",literal data
+10390,CO2,no trailing characters,2023-07-19,literal data
+10390,CH4,no trailing characters,15:18:44,literal data
+10390,NA,22 columns,25 columns,literal data
+10391,DATE,date like ,2,literal data
+10391,TIME,time like ,in,literal data
+10391,H2O,a double,"wetl""",literal data
+10391,CO2,no trailing characters,2023-07-19,literal data
+10391,CH4,no trailing characters,15:18:45,literal data
+10391,NA,22 columns,25 columns,literal data
+10392,DATE,date like ,2,literal data
+10392,TIME,time like ,in,literal data
+10392,H2O,a double,"wetl""",literal data
+10392,CO2,no trailing characters,2023-07-19,literal data
+10392,CH4,no trailing characters,15:18:46,literal data
+10392,NA,22 columns,25 columns,literal data
+10393,DATE,date like ,2,literal data
+10393,TIME,time like ,in,literal data
+10393,H2O,a double,"wetl""",literal data
+10393,CO2,no trailing characters,2023-07-19,literal data
+10393,CH4,no trailing characters,15:18:47,literal data
+10393,NA,22 columns,25 columns,literal data
+10394,DATE,date like ,2,literal data
+10394,TIME,time like ,in,literal data
+10394,H2O,a double,"wetl""",literal data
+10394,CO2,no trailing characters,2023-07-19,literal data
+10394,CH4,no trailing characters,15:18:48,literal data
+10394,NA,22 columns,25 columns,literal data
+10395,DATE,date like ,2,literal data
+10395,TIME,time like ,in,literal data
+10395,H2O,a double,"wetl""",literal data
+10395,CO2,no trailing characters,2023-07-19,literal data
+10395,CH4,no trailing characters,15:18:49,literal data
+10395,NA,22 columns,25 columns,literal data
+10396,DATE,date like ,2,literal data
+10396,TIME,time like ,in,literal data
+10396,H2O,a double,"wetl""",literal data
+10396,CO2,no trailing characters,2023-07-19,literal data
+10396,CH4,no trailing characters,15:18:50,literal data
+10396,NA,22 columns,25 columns,literal data
+10397,DATE,date like ,2,literal data
+10397,TIME,time like ,in,literal data
+10397,H2O,a double,"wetl""",literal data
+10397,CO2,no trailing characters,2023-07-19,literal data
+10397,CH4,no trailing characters,15:18:51,literal data
+10397,NA,22 columns,25 columns,literal data
+10398,DATE,date like ,2,literal data
+10398,TIME,time like ,in,literal data
+10398,H2O,a double,"wetl""",literal data
+10398,CO2,no trailing characters,2023-07-19,literal data
+10398,CH4,no trailing characters,15:18:52,literal data
+10398,NA,22 columns,25 columns,literal data
+10399,DATE,date like ,2,literal data
+10399,TIME,time like ,in,literal data
+10399,H2O,a double,"wetl""",literal data
+10399,CO2,no trailing characters,2023-07-19,literal data
+10399,CH4,no trailing characters,15:18:53,literal data
+10399,NA,22 columns,25 columns,literal data
+10400,DATE,date like ,2,literal data
+10400,TIME,time like ,in,literal data
+10400,H2O,a double,"wetl""",literal data
+10400,CO2,no trailing characters,2023-07-19,literal data
+10400,CH4,no trailing characters,15:18:54,literal data
+10400,NA,22 columns,25 columns,literal data
+10401,DATE,date like ,2,literal data
+10401,TIME,time like ,in,literal data
+10401,H2O,a double,"wetl""",literal data
+10401,CO2,no trailing characters,2023-07-19,literal data
+10401,CH4,no trailing characters,15:18:55,literal data
+10401,NA,22 columns,25 columns,literal data
+10402,DATE,date like ,2,literal data
+10402,TIME,time like ,in,literal data
+10402,H2O,a double,"wetl""",literal data
+10402,CO2,no trailing characters,2023-07-19,literal data
+10402,CH4,no trailing characters,15:18:56,literal data
+10402,NA,22 columns,25 columns,literal data
+10403,DATE,date like ,2,literal data
+10403,TIME,time like ,in,literal data
+10403,H2O,a double,"wetl""",literal data
+10403,CO2,no trailing characters,2023-07-19,literal data
+10403,CH4,no trailing characters,15:18:57,literal data
+10403,NA,22 columns,25 columns,literal data
+10404,DATE,date like ,2,literal data
+10404,TIME,time like ,in,literal data
+10404,H2O,a double,"wetl""",literal data
+10404,CO2,no trailing characters,2023-07-19,literal data
+10404,CH4,no trailing characters,15:18:58,literal data
+10404,NA,22 columns,25 columns,literal data
+10405,DATE,date like ,2,literal data
+10405,TIME,time like ,in,literal data
+10405,H2O,a double,"wetl""",literal data
+10405,CO2,no trailing characters,2023-07-19,literal data
+10405,CH4,no trailing characters,15:18:59,literal data
+10405,NA,22 columns,25 columns,literal data
+10406,DATE,date like ,2,literal data
+10406,TIME,time like ,in,literal data
+10406,H2O,a double,"wetl""",literal data
+10406,CO2,no trailing characters,2023-07-19,literal data
+10406,CH4,no trailing characters,15:19:00,literal data
+10406,NA,22 columns,25 columns,literal data
+10407,DATE,date like ,2,literal data
+10407,TIME,time like ,in,literal data
+10407,H2O,a double,"wetl""",literal data
+10407,CO2,no trailing characters,2023-07-19,literal data
+10407,CH4,no trailing characters,15:19:01,literal data
+10407,NA,22 columns,25 columns,literal data
+10408,DATE,date like ,2,literal data
+10408,TIME,time like ,in,literal data
+10408,H2O,a double,"wetl""",literal data
+10408,CO2,no trailing characters,2023-07-19,literal data
+10408,CH4,no trailing characters,15:19:02,literal data
+10408,NA,22 columns,25 columns,literal data
+10409,DATE,date like ,2,literal data
+10409,TIME,time like ,in,literal data
+10409,H2O,a double,"wetl""",literal data
+10409,CO2,no trailing characters,2023-07-19,literal data
+10409,CH4,no trailing characters,15:19:03,literal data
+10409,NA,22 columns,25 columns,literal data
+10410,DATE,date like ,2,literal data
+10410,TIME,time like ,in,literal data
+10410,H2O,a double,"wetl""",literal data
+10410,CO2,no trailing characters,2023-07-19,literal data
+10410,CH4,no trailing characters,15:19:04,literal data
+10410,NA,22 columns,25 columns,literal data
+10411,DATE,date like ,2,literal data
+10411,TIME,time like ,in,literal data
+10411,H2O,a double,"wetl""",literal data
+10411,CO2,no trailing characters,2023-07-19,literal data
+10411,CH4,no trailing characters,15:19:05,literal data
+10411,NA,22 columns,25 columns,literal data
+10412,DATE,date like ,2,literal data
+10412,TIME,time like ,in,literal data
+10412,H2O,a double,"wetl""",literal data
+10412,CO2,no trailing characters,2023-07-19,literal data
+10412,CH4,no trailing characters,15:19:06,literal data
+10412,NA,22 columns,25 columns,literal data
+10413,DATE,date like ,2,literal data
+10413,TIME,time like ,in,literal data
+10413,H2O,a double,"wetl""",literal data
+10413,CO2,no trailing characters,2023-07-19,literal data
+10413,CH4,no trailing characters,15:19:07,literal data
+10413,NA,22 columns,25 columns,literal data
+10414,DATE,date like ,2,literal data
+10414,TIME,time like ,in,literal data
+10414,H2O,a double,"wetl""",literal data
+10414,CO2,no trailing characters,2023-07-19,literal data
+10414,CH4,no trailing characters,15:19:08,literal data
+10414,NA,22 columns,25 columns,literal data
+10415,DATE,date like ,2,literal data
+10415,TIME,time like ,in,literal data
+10415,H2O,a double,"wetl""",literal data
+10415,CO2,no trailing characters,2023-07-19,literal data
+10415,CH4,no trailing characters,15:19:09,literal data
+10415,NA,22 columns,25 columns,literal data
+10416,DATE,date like ,2,literal data
+10416,TIME,time like ,in,literal data
+10416,H2O,a double,"wetl""",literal data
+10416,CO2,no trailing characters,2023-07-19,literal data
+10416,CH4,no trailing characters,15:19:10,literal data
+10416,NA,22 columns,25 columns,literal data
+10417,DATE,date like ,2,literal data
+10417,TIME,time like ,in,literal data
+10417,H2O,a double,"wetl""",literal data
+10417,CO2,no trailing characters,2023-07-19,literal data
+10417,CH4,no trailing characters,15:19:11,literal data
+10417,NA,22 columns,25 columns,literal data
+10418,DATE,date like ,2,literal data
+10418,TIME,time like ,in,literal data
+10418,H2O,a double,"wetl""",literal data
+10418,CO2,no trailing characters,2023-07-19,literal data
+10418,CH4,no trailing characters,15:19:12,literal data
+10418,NA,22 columns,25 columns,literal data
+10419,DATE,date like ,2,literal data
+10419,TIME,time like ,in,literal data
+10419,H2O,a double,"wetl""",literal data
+10419,CO2,no trailing characters,2023-07-19,literal data
+10419,CH4,no trailing characters,15:19:13,literal data
+10419,NA,22 columns,25 columns,literal data
+10420,DATE,date like ,2,literal data
+10420,TIME,time like ,in,literal data
+10420,H2O,a double,"wetl""",literal data
+10420,CO2,no trailing characters,2023-07-19,literal data
+10420,CH4,no trailing characters,15:19:14,literal data
+10420,NA,22 columns,25 columns,literal data
+10421,DATE,date like ,2,literal data
+10421,TIME,time like ,in,literal data
+10421,H2O,a double,"wetl""",literal data
+10421,CO2,no trailing characters,2023-07-19,literal data
+10421,CH4,no trailing characters,15:19:15,literal data
+10421,NA,22 columns,25 columns,literal data
+10422,DATE,date like ,2,literal data
+10422,TIME,time like ,in,literal data
+10422,H2O,a double,"wetl""",literal data
+10422,CO2,no trailing characters,2023-07-19,literal data
+10422,CH4,no trailing characters,15:19:16,literal data
+10422,NA,22 columns,25 columns,literal data
+10423,DATE,date like ,2,literal data
+10423,TIME,time like ,in,literal data
+10423,H2O,a double,"wetl""",literal data
+10423,CO2,no trailing characters,2023-07-19,literal data
+10423,CH4,no trailing characters,15:19:17,literal data
+10423,NA,22 columns,25 columns,literal data
+10424,DATE,date like ,2,literal data
+10424,TIME,time like ,in,literal data
+10424,H2O,a double,"wetl""",literal data
+10424,CO2,no trailing characters,2023-07-19,literal data
+10424,CH4,no trailing characters,15:19:18,literal data
+10424,NA,22 columns,25 columns,literal data
+10425,DATE,date like ,2,literal data
+10425,TIME,time like ,in,literal data
+10425,H2O,a double,"wetl""",literal data
+10425,CO2,no trailing characters,2023-07-19,literal data
+10425,CH4,no trailing characters,15:19:19,literal data
+10425,NA,22 columns,25 columns,literal data
+10426,DATE,date like ,2,literal data
+10426,TIME,time like ,in,literal data
+10426,H2O,a double,"wetl""",literal data
+10426,CO2,no trailing characters,2023-07-19,literal data
+10426,CH4,no trailing characters,15:19:20,literal data
+10426,NA,22 columns,25 columns,literal data
