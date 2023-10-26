@@ -121,9 +121,9 @@ read_ghg_data <- function(fn) {
 dat <- lapply(data_files, read_ghg_data)
 dat <- do.call("rbind", dat)
 
-write_csv(data_problems, "dataframe_issues.csv")
-?write_csv
-data_problems<-problems(dat)
+# write a csv of issues with data input
+# write_csv(data_problems, "dataframe_issues.csv")
+# data_problems<-problems(dat)
 
 ```
 
